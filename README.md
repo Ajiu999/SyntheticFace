@@ -1,5 +1,5 @@
 
-Hello guys, this really is going to be my first article on GitHub. So in our lives, face_recognition becomes more and more popular, many companies have launched apis that we can call. It's just my interest,  today we're going to try out face++, the company's face_recognition technology. What we will do today is we mix two faces up.
+Hello guys, this really is going to be my first article on GitHub. So in our lives, face_recognition becomes more and more popular, many companies have launched apis that we can call. It's just my interest,  today we're going to try out face++, the company's face_recognition technology. What we will do today is mix two faces up.
 
 ## Preparatory Work
 
